@@ -1,0 +1,18 @@
+#Marvel {
+  height: 130vh;
+  padding: 30px 50px;
+}
+
+#Marvel h2 {
+  font-weight: bold;
+  padding: 20px 75px;
+}
+
+#Marvel .cardMovie {
+  display: flex;
+  flex-direction: row;
+}
+
+.marvelMovie {
+  padding-left: 75px;
+}

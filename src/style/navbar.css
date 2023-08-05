@@ -1,0 +1,49 @@
+/* Navbar */
+#Navbar {
+  height: 100vh;
+  background-image: url("../assets/images/bg/spiderman.jpg");
+  background-size: cover;
+}
+
+#Navbar .navbar-logo {
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+#Navbar .nav-link {
+  color: grey;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#Navbar .nav-link:hover {
+  color: white;
+}
+/* End Navbar */
+
+/* Intro */
+.Introduction {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px 200px;
+}
+
+.Introduction h1 {
+  color: white;
+}
+
+.Introduction p {
+  color: white;
+  font-size: 18px;
+}
+
+.Introduction button {
+  color: black;
+  font-weight: bold;
+  background-color: white;
+  padding: 15px 20px;
+  font-size: 20px;
+}
+/* End Intro */
